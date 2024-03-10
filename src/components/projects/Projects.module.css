@@ -1,14 +1,32 @@
 
 @import "../../vars.css";
 
-.container {
-  margin-top: 76px;  
-  margin-left: 10%;
-  margin-right: 10%;
-  max-height: 1000px; 
-  overflow-y: auto; 
-}
 
+.Container {
+  padding-top: 85px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  align-items: center;
+  border-color: white;
+} 
+.Wrapper {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 25px;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1100px;
+  gap: 12px;
+  border-color: white;
+  max-height: 750px; 
+  overflow-y: auto; 
+
+}
 .title {
   font-size: 30px;
   font-weight: 700;

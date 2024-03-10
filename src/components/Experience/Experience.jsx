@@ -4,8 +4,8 @@ import { getImageUrl } from '../../utils';
 
 export const Experience = () => {
     return (
-        <section>
-            <div className={styles.container} id="Experience">
+        <div className={styles.container} id="Experience">
+            <div className={styles.Wrapper} >
                 <h2 className={styles.title}>Work Experience</h2>
                 <div className={styles.content}>
                 <ul className={styles.experience}>
@@ -22,7 +22,7 @@ export const Experience = () => {
                 </ul>
             </div>
             </div>
-        </section>
+        </div>
     );
 }
 

@@ -1,12 +1,12 @@
 
 import educatiom from "../../data/education.json"
-import { getImageUrl } from "../../utils";
 import styles from "./education.module.css";
 export const Education=()=>{
 
     return (
-        <section id="education" className={styles.container}>
-          <h2 className={styles.title}>Education</h2>
+        <div id="education" className={styles.container}>
+         <div className={styles.Wrapper}>
+         <h2 className={styles.title}>Education</h2>
           <div className={styles.content}>
 
           <ul className={styles.education}>{
@@ -27,6 +27,8 @@ export const Education=()=>{
                     })
                 }</ul>
           </div>
-        </section>
+         </div>
+          
+        </div>
     );
 };

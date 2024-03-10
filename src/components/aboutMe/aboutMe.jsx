@@ -4,7 +4,8 @@ import { getImageUrl } from "../../utils";
 import styles from "./aboutMe.module.css";
 export const AboutMe = () => {
     return (
-        <section className={styles.container} id="about">
+        <div className={styles.container} id="about">
+            <div className={styles.Wrapper}>
             <h2 className={styles.title}>About</h2>
             <div className={styles.content}>
                 <img src={getImageUrl("aboutMe/image.png")}
@@ -46,6 +47,8 @@ computing, AI device framework, and high-resolution navigation systems.</p>
                 </ul>
             </div>
 
-        </section>
+            </div>
+            
+        </div>
     );
 }

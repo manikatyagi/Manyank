@@ -24,11 +24,11 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/call.jpg")} alt="call icon" />
-          <a >+91 750 33 66 245, +91 80 10 71 8083</a>
+          <p >+91 7503366245, +91 80 10 71 8083</p>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/address.jpg")} alt="address icon" />
-          <a >Koramangala,Bengaluru Karnataka, INDIA</a>
+          <p >Koramangala,Bengaluru Karnataka, INDIA</p>
         </li>
       </ul>
     </footer>

@@ -7,13 +7,15 @@ import { ProjectCard } from "./ProjectCard";
 export const Projects = () => {
   return (
     // hello
-    <section className={styles.container} id="projects">
+    <div className={styles.container} id="projects">
       <h2 className={styles.title}>INDUSTRIAL PROJECTS</h2>
-      <div className={styles.projects}>
-        {projects.map((project, id) => {
-          return <ProjectCard key={id} project={project} />;
-        })}
+      <div className={styles.wrapper}>
+        <div className={styles.projects}>
+          {projects.map((project, id) => {
+            return <ProjectCard key={id} project={project} />;
+          })}
+        </div>
       </div>
-    </section>
+    </div>
   );
 };
