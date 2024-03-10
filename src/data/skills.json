@@ -1,0 +1,179 @@
+[
+  {
+    "title": "Programming Languages",
+    "skills": [
+      {
+        "name": "Embedded C/C++"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "MATLAB"
+      },
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "Assembly"
+      }
+    ]
+  },
+  {
+    "title": "PC Operating System",
+    "skills": [
+      {
+        "name": "Zephyr OS"
+      },
+      {
+        "name": "Linux"
+      },
+      {
+        "name": "Mac OS X"
+      },
+      {
+        "name": "Eclipse KANTO"
+      },
+      {
+        "name": "QNX"
+      },
+      {
+        "name": "iOS"
+      },
+      {
+        "name": "Android"
+      }
+    ]
+  },
+  {
+    "title": "Processor Architecture",
+    "skills": [
+      {
+        "name": "Infineon: Tri Core MCU"
+      },
+      {
+        "name": "Renesas: RH850, RCAR, RL78"
+      },
+      {
+        "name": "ARM: Fujitsu, Atmel, Keil LPC"
+      },
+      {
+        "name": "Boards: NVIDIA, ST Dev, TI, RPi, ESP32, Atmel, Dallas"
+      },
+      {
+        "name": "FPGA Boards: Xilinx Spartan-605,606, Virtex-5 & Virtex-6."
+      },
+      {
+        "name": "Nodemcu"
+      },
+      {
+        "name": "PCI"
+      },
+      {
+        "name": "microcontrollers"
+      }
+    ]
+  },
+  {
+    "title": "Communication Protocol",
+    "skills": [
+      {
+        "name": "Wireless: 5G-NR, C-V2X, MQTT, IR, Multicast, Wi-Fi – TCP/IP, UDP ,RF, RFID, BLE (Stack),Barcode, Bluetooth, Beacon"
+      },
+      {
+        "name": "AUTOSAR: RTE, BSW, Application Layer - SWC, COM"
+      },
+      {
+        "name": "Serial: CAN, CAN-FD, UDS, I2C, SPI, MIL-STD-1553, RS-232, 422, 485"
+      },
+      {
+        "name": "Parallel: Synchro, Resolver"
+      },
+      {
+        "name": "Ethernet: Multicast TCP/IP, UDP,ARP, ICMP using ARM Processor (Bare-Metal)"
+      },
+      {
+        "name": "Other: LIDAR JTAG debug Termios (Rasbian,)"
+      }
+    ]
+  },
+  {
+    "title": "Tools and Technologies",
+    "skills": [
+      {
+        "name": "JIRA"
+      },
+      {
+        "name": "GIT"
+      },
+      {
+        "name": "DOORS"
+      },
+      {
+        "name": "GERRIT"
+      },
+      {
+        "name": "WINIDEA"
+      },
+      {
+        "name": "PLM"
+      },
+      {
+        "name": "KEIL IDE"
+      },
+      {
+        "name": "IAR Workbench"
+      },
+      {
+        "name": "CUBEsuit+"
+      },
+      {
+        "name": "Xilinx 13.3"
+      },
+      {
+        "name": "Matlab (Image Processing)"
+      },
+      {
+        "name": "Machine Learning"
+      },
+      {
+        "name": "Colab"
+      },
+      {
+        "name": "Anaconda"
+      },
+      {
+        "name": "QT 6.4.1– UI Design"
+      },
+      {
+        "name": "Web Assembly (wasm)"
+      },
+      {
+        "name": "Android Studio: App Design"
+      },
+      {
+        "name": "ASW"
+      },
+      {
+        "name": "MongoDB"
+      }
+    ]
+  },
+  {
+    "title": "Schematic/PCB Designing",
+    "skills": [
+      {
+        "name": "Cadence Orcad 9"
+      },
+      {
+        "name": "Protel"
+      },
+      {
+        "name": "Proteus"
+      },
+      {
+        "name": "PSpice"
+      }
+    ]
+  }
+]

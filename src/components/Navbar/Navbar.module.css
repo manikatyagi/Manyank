@@ -1,0 +1,83 @@
+@import "../../vars.css";
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 50%; /* Align to the center */
+  transform: translateX(-50%); /* Center the navbar */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 28px;
+  padding-inline: 10%;
+  background-color: black;
+  color: white;
+  width: 100%;
+  z-index: 2;
+}
+.title {
+  font-size: 25px;
+  font-weight: 600;
+  text-decoration: none;
+  color: white;
+  
+}
+
+.menu {
+  display: flex;
+}
+
+.menuBtn{
+  display: none;
+}
+
+.menuItems {
+  display: flex;
+  gap: 47px;
+  list-style: none;
+}
+
+.menuItems a {
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 830px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .menu {
+    position: absolute;
+    right: 0;
+    margin-right: 10%;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 11px;
+    z-index: 3;
+  }
+
+  .menuBtn {
+    display: block;
+    cursor: pointer;
+  }
+
+  .menuItems {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 13px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 24px 33px;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  }
+
+  .menuOpen {
+    display: flex;
+    z-index: 1;
+  }
+}

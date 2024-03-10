@@ -1,0 +1,33 @@
+[
+    {
+      "Degree": "MTech (Embedded System Design) ",
+      "Institute": "Lingaya University ",
+      "startDate": "Sep, 2020",
+      "endDate": "July, 2024",
+      "description": ["My overall CGPA is 8.4"]
+    },
+    {
+        "Degree": "BTech (Electronics & Communication)",
+        "Institute": "MDU, Rohtak",
+        "startDate": "April, 2019",
+        "endDate": "April, 2020",
+        "description": ["I scored 63.34 % in my Btech degree."],
+        "imageSrc": "education/school1.png"
+    },
+    {
+      "Degree": "Senior Secondary ",
+      "Institute": "XYZ , CBSE",
+      "startDate": "April, 2019",
+      "endDate": "April, 2020",
+      "description": ["I completed my 12th grade at  affiliated with CBSE, specializing in the PCM (Physics, Chemistry, Mathematics) stream.", "I scored 66.30 % in my 12th-grade examinations."],
+      "imageSrc": "education/school1.png"
+  },
+    {
+      "Degree": "Secondary",
+      "Institute": "XYZ ,CBSE ",
+      "startDate": "April, 2017",
+      "endDate": "April, 2018",
+      "description": ["I completed my 10th grade at , under the CBSE board, securing a notable 66.40 %."],
+      "imageSrc": "education/school2.png"
+    }
+  ]

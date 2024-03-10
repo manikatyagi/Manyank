@@ -1,0 +1,75 @@
+
+.container {
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .title {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 14px;
+  }
+  
+
+.education {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+  
+  .eduItem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 17px;
+    border: 3px black solid;
+    border-radius: 10px;
+    padding: 24px;
+  }
+  
+  .eduItem img {
+    width: 75px;
+    margin-right: 10px;
+  }
+  
+  .eduItemDetails {
+    font-family: var(--font-roboto);
+  }
+  
+  .eduItemDetails h3 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  
+  .eduItemDetails p {
+    margin-top: 10px;
+    font-size: 17px;
+    font-weight: 300;
+  }
+  
+  .eduItemDetails ul {
+    margin-top: 6px;
+    list-style-position: inside;
+    font-size: 20px;
+    list-style-type: disc;
+    margin-left: 17px;
+  }
+
+  @media screen and (max-width: 830px){
+    .education {
+      width: 95%;
+    }
+    .eduItem{
+      flex-direction: column;}
+  }
+  

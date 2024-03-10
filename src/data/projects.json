@@ -1,0 +1,122 @@
+[
+  {
+    "title": "VehEdgeNet: Distributed Mobility Framework ",
+    "description": "VehEdgeNet is a cutting-edge distributed mobility framework that harnesses the power of advanced technologies like 5G, Multi-Access Edge Computing (MEC), and Reliable Distributed Systems for Edge computing. It enables smooth communication, control, and management of vehicles and infrastructure. By facilitating seamless data exchange between vehicles and infrastructure, VehEdgeNet enables real-time monitoring, control, and optimization of mobility services.",
+    "skills": [
+      "MQTT",
+      "Multicast UDP/TCP IP",
+      "HTTP",
+      "Grafana",
+      "Hana",
+      "Ditto",
+      "Edge Server",
+      "Wi-Fi",
+      "V2I Communication",
+      "V2N Communication",
+      "Traffic Management with MEC",
+      "Remote Software Updates via MQTT",
+      "5G NR Connectivity",
+      "C-V2X Connectivity",
+      "ETSI ITS-G5 Communication",
+      "SAE J2735 Communication",
+      "Distributed Edge Computing Intelligence",
+      "Automotive Grade ECUs",
+      "Video Streaming for V2V & V2I",
+      "C-V2X for Platooning",
+      "C-V2X for E-brake",
+      "HMI Personalization with QT",
+      "HMI Personalization with WASM"
+    ]
+  },
+  {
+    "title": "MEET (Mobility Edge Ecosystem Testbed): Revolutionizing Mobility with Cutting-Edge Technologies",
+    "description": "MEET, or Mobile Edge Enhanced Transportation, is an innovative project at the forefront of mobility advancements. By harnessing cutting-edge technologies like 5G, Multi-Access Edge Computing (MEC), and a Reliable Distributed System for Edge computing, MEET aims to revolutionize vehicle functionality. Equipped with Monovision (ADAS software), MEET facilitates autonomous driving capabilities, enabling safer and more efficient transportation. Its layered architecture, as per the 5GAA MEC4Auto standard, encompasses cloud computing resources, edge servers, infrastructure management, and vehicle communication systems. MEET's integration of advanced features such as collision avoidance systems, platooning, and in-vehicle data processing promises to shape the future of mobility, paving the way for smarter and more connected transportation networks.",
+    "skills": [
+      "Motion: Sensor Fusion – Lidar, Camera, USS, IR",
+      "CV & Vision on Vehicle: ADAS functions for Lane, LKA, OD, TLR, TSA",
+      "Connectivity: 5G NR, C-V2X, 5G cellular, Wi-Fi, Ethernet",
+      "Microcontrollers (uC): Bosch VCUx, NXP i.Mx 8x, Qualcomm",
+      "Edge Computing Platforms: Greengrass, Lattice, Kanto",
+      "Tools: Jira, DOORS, Git",
+      "Communication Protocols: ETSI ITS-G5, SAE J2735, V2X, WLAN",
+      "Intelligence: Edge Computing, Distributed Decision Making, Traffic Management, Transfer Learning",
+      "Software Updates: Wired, OTA Stack using Rust",
+      "Infrastructure: Charging, Parking, Toll Booth, Sign Detection",
+      "Abstraction: API-Based",
+      "Hardware: Automotive Grade ECUs",
+      "Video Streaming: 5G-NR for V2V & V2I for Edge Server",
+      "C-V2X using ITS Stack for Platooning, Emergency Brake, etc.",
+      "Use Cases: See Through, Intersection Movement Assist (IMA), Vehicle Platooning",
+      "Digital Services for Edge Compute: Charging Station Assist",
+      "HMI (Human-Machine Interface): Personalization and User Input (QT Based, WASM)"
+    ]
+  },
+  {
+    "title": "Cloud to EDGE - Converting Cloud-based Models for Nvidia",
+    "description": "This project focuses on enhancing healthcare applications by migrating a set of 12 machine learning and deep learning models from a cloud-based infrastructure to NVIDIA platforms. These models are integral to various tasks within the healthcare application. Transitioning to NVIDIA presents opportunities for on-device inference and real-time processing, as the models are optimized to leverage GPU architecture and hardware acceleration capabilities. This optimization enables healthcare professionals to utilize on-device inference, leading to improved responsiveness, particularly in environments where internet costs for data transfers are high.",
+    "skills": ["Scikit-learn", "TensorFlow", "Wrapper Architecture", "Framework: Scikit-learn, TensorFlow", "Conversion and Environment creation", "Inferencing using generated engine files", "Result validation", "Wrapper implementation", "End-to-End deployment", "QT UI Application"]
+  },
+  {
+    "title": "Torpedo Firing Solution for Submarine",
+    "description": "The system serves as a crucial interface, gathering essential data inputs such as sensor logs, depth information from sensors, heading data from the ANDOGA GYRO, and target data from the USHUS SONAR. These inputs undergo processing and consolidation within the interface before being transmitted to the Fire Control System (FCS) in an Ethernet format. Leveraging the received data, the FCS conducts sophisticated calculations to derive precise firing angle values necessary for accurately targeting and hitting designated objectives. This solution is designed to elevate the effectiveness and precision of torpedo firing operations in submarine warfare, thereby enhancing mission success rates. By integrating diverse sensor inputs and advanced calculations, the system underscores the pivotal role of technology in modern submarine operations, bolstering their capabilities and ensuring tactical superiority in naval engagements.",
+    "skills": [ "Works on Russian Proprietary Protocol (deciphered by our Team)",
+    "Engage and disengage clutch gears/motors to move dials in clockwise & anticlockwise direction/speed",
+    "Communication over Analog voltages (Parallel) and Ethernet",
+    "Read (using gray-barker code) & Feedback current dials angular position",
+    "Is capable of firing 6 Torpedoes at once",
+    "7-Inch Raspberry Pi display",
+  "Awarded Innovation Trophy-2017 (First Prize) by the President of INDIA"]
+  },
+
+  {
+    "title": "SMPC5 (Stereo Vision – ADAS Level 3): Mercedes-Benz",
+    "description": " The Stereo Multi-Purpose Camera Vision (SMPC5 – ADAS software) serves as a vital component in vehicles, providing driver assistance, enhancing driving safety, and supporting autonomous driving functionalities. By detecting and recognizing dangerous situations, SMPC5 can alert the driver, helping prevent potential accidents. Moreover, it can assist in regulating the vehicle's speed and steering, offering comfort features such as automated driving, with or without driver supervision, depending on the product version. Signals from SMPC5, along with data from driving dynamics sensors, enable other ECUs in the vehicle to take appropriate actions based on the driving situation and conditions.",
+    "skills": [
+      "Agile Process",
+      "VIC: VIP & VIA",
+      "Vision Processor",
+      "Camera Subsystems",
+      "Peripheral Network",
+      "Debug Subsystem",
+      "HIL Subsystem",
+      "Ethernet",
+      "Application Layer: Ego motion, Lane, OD, TSA, TSR, SAR - recording",
+      "Service Layer: Diag, DTC_MPC, measurement",
+      "Platform Layer: Ethernet stat, dcm_proxy server – client",
+      "Integration Scripts, Unit Tests, QAC",
+      "Infineon Aurix TC27xC MultiCore",
+      "Jira, Git, Doors, PLM"
+    ]
+  },
+
+  {
+    "title": "Telematics Control Unit (TCU)",
+    "description": "This interface is an Electronic Control Unit which gathers data in the vehicle from different sources like ECUs, Instrument Cluster Unit, Body Control Unit etc. in Gasoline Vehicle and Battery Management System, BLDC Motor Controller Unit, Instrument Cluster Uni, Body Control Unit etc. in case of an Electric Vehicle. It also collects data directly from the sensors e.g., Left / Right Indicator Status, High Beam / Low Beam Status.TCU sends all the data to the cloud where data is parsed, analyzed and then meaningful business information is generated from this huge data.",
+    "skills": [
+      "2G GSM + GNSS",
+      "Embedded SIM",
+      "On-Chip Antenna",
+      "6-Axis Accelerometer + Gyro Integrated",
+      "Flash, EEROM",
+      "CAN, UDS",
+      "RS 232",
+      "SPI, I2C",
+      "MQTT, TCP/IP",
+      "IP-67 Compliant",
+      "Sleep Mode: 4-6 mA current requirement"
+    ]
+  },
+
+  {
+    "title": "FPGA-EDK based Simulator",
+    "description": "This project simulates target data on 10 different channels with user-entered configuration on every line.",
+    "skills": [
+      "Input: Ethernet (UDP)",
+      "Output: RS422",
+      "Configurable refresh rate: 200Hz, 100Hz, 50Hz, 10Hz & 1Hz",
+      "Configurable Baud Rate: 115200, 38400, 19200, 9600 & 4800",
+      "Parity: Even, Odd & None"
+    ]
+  }
+
+]

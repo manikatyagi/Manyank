@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "company": "Bosch Global Software Services",
+    "location": "Koramangala, Bengaluru, Karnataka",
+    "position": "Technical Architect (Mobility)",
+    "startDate": "October 2022",
+    "endDate": "Present",
+    "imageSrc": "experience/bosch.png"
+  },
+  {
+    "id": 1,
+    "company": "HCL Technologies Ltd",
+    "location": "Bangalore, Karnataka",
+    "position": "Senior Technical Lead (ADAS domain)",
+    "startDate": "July 2020",
+    "endDate": "October 2022",
+    "imageSrc": "experience/hcl.png"
+  },
+  {
+    "id": 2,
+    "company": "Napino Auto & Electronics Ltd",
+    "location": "Plot No 131, Sec-8, IMT Manesar, Haryana",
+    "position": "Asstt. Manager (R&D)",
+    "startDate": "August 2018 ",
+    "endDate": "July 2020",
+    "imageSrc": "experience/napino.jpg"
+    
+  },
+  {
+    "id": 3,
+    "company": "Weapons and Electronics Systems Engineering Establishment (WESEE)",
+    "location": "West BlockV, RK-Puram, Sec-1, New-Delhi",
+    "position": "Sr. Engineer (Embedded System Design)",
+    "startDate": "November 2014",
+    "endDate": "August 2018",
+    "imageSrc": "experience/wesee.png"
+    
+    
+  },
+  {
+    "id": 4,
+    "company": "Infoverge Communications Pvt. Ltd",
+    "location": "Nangal Raya, New Delhi",
+    "position": "Application Engineer (Embedded System Design)",
+    "startDate": "November 2012",
+    "endDate": "November 2014",
+    "imageSrc": "experience/infoverge.jpg"
+  }
+]
